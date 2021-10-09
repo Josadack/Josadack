@@ -1,16 +1,24 @@
-### Hi there 👋
+### Olá! Eu sou Josadack 👋
 
-<!--
-**Josadack/Josadack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente trabalho Aux. ADM
+- 🌱 Estuando: Java / python
+- 👨🏽‍💻 Cursando: Análise e desenvolvimento de sistema.
+
+
+<div>
+  <a href="https://">
+  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=Josadack&show_icons=true&theme=dark&inclaude_ali_commits=true&count_private=true"/>
+    <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josadack&layout=compact&langs_count=16&theme=dark"/>
+</div>
+  
+  <div style="display inline_black"><br>
+    <img align="center" alt="josa-Java" height="50" width="70" src ="https://marcas-logos.net/wp-content/uploads/2020/11/Java-logo.png">
+     <img align="center" alt="josa-python" height="50" width="70" src ="https://www.python.org/static/community_logos/python-logo-generic.svg">
+      <img align="center" alt="josa-JavaScript" height="50" width="70" src ="https://marcas-logos.net/wp-content/uploads/2020/11/JavaScript-logo.png">
+       <img align="right" alt="josa-JavaScript" height="50" width="70" src ="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png">
+        <img align="right" alt="josa-JavaScript" height="50" width="60" src ="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-2.png">
+  </div>
+  
+  ##
