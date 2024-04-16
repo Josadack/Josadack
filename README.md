@@ -17,7 +17,7 @@
     <img align="center" alt="josa-Java" height="50" width="70" src ="https://marcas-logos.net/wp-content/uploads/2020/11/Java-logo.png">
      <img align="center" alt="josa-python" height="50" width="70" src ="https://www.python.org/static/community_logos/python-logo-generic.svg">
       <img align="center" alt="josa-JavaScript" height="50" width="70" src ="https://marcas-logos.net/wp-content/uploads/2020/11/JavaScript-logo.png">
-       <img align="center" alt="josa-JavaScript" height="50" width="70" src ="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png">
+    
         
 </div>
 
