@@ -3,7 +3,7 @@
 
 
 - 🌱 Estuando: Java / JavaScript 
-- 👨🏽‍💻 Cursando: Análise e desenvolvimento de sistema.
+- 👨🏽‍💻  Análise e desenvolvimento de sistema.
 
 
 <div>
