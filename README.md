@@ -2,8 +2,7 @@
 
 
 
-- 🔭 Atualmente trabalho: Aux. ADM
-- 🌱 Estuando: Java / python
+- 🌱 Estuando: Java / JavaScript 
 - 👨🏽‍💻 Cursando: Análise e desenvolvimento de sistema.
 
 
