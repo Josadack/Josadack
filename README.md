@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estuando: Java / JavaScript 
+- 🌱 Estudante: Java / JavaScript 
 - 👨🏽‍💻  Análise e desenvolvimento de sistema.
 
 
