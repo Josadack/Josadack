@@ -18,14 +18,14 @@ Atualmente busco oportunidades para atuar em times ágeis, entregando soluções
 
 ## 🧩 Projetos Relevantes
 
-**Conta Bancária Java** — Simulação de operações bancárias com foco em POO, encapsulamento e herança.  
-➡️ [Repositório](https://github.com/Josadack/conta_bancaria_java)  
+Wistrip — Assistente virtual de viagens desenvolvido com Java 17 e Spring Boot 3. O sistema permite planejar viagens, comparar preços e integrar dados de reservas, aplicando boas práticas de arquitetura e APIs REST.
+➡️ https://github.com/projetointegrador-g3/vammo_react
 
-**Projeto Final Bloco 01 (Generation Brasil)** — Aplicação Full Stack com front-end em React e integração de API REST.  
-➡️ [Repositório](https://github.com/Josadack/projeto_final_bloco_01)
+Bookstore Assistant — Aplicação em Spring Boot com integração ao Spring AI e OpenAI API para criar uma assistente de livraria inteligente, capaz de sugerir livros e interagir por meio de linguagem natural.
+➡️ [Repositório](https://github.com/Josadack/bookstore)
 
-**Download de Vídeos (Python)** — Ferramenta CLI para download e automação de vídeos online, explorando bibliotecas Python e boas práticas de scripts.  
-➡️ [Repositório](https://github.com/Josadack/download_video)
+Vammo! — Aplicação front-end desenvolvida em React + TypeScript + Vite + Tailwind CSS como parte do bootcamp Full Stack da Generation Brasil. Interface moderna e responsiva para um app de caronas.
+➡️ [Repositório](https://github.com/projetointegrador-g3/vammo_react)
 
 ---
 
