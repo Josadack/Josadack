@@ -1,11 +1,12 @@
-### Olá! Eu sou Josadack 👋
+## 👋 Fala aí, eu sou o Dack Ferreira
 
+Sou desenvolvedor Back-End e Full Stack em formação, com foco em **Java (Spring Boot)** e **Node.js (NestJS / TypeScript)**.  
+Apaixonado por **boas práticas, arquitetura limpa e APIs RESTful**, estou sempre criando projetos que simulam cenários reais de mercado.  
 
-Sou desenvolvedor Back-End em formação, apaixonado por arquitetura limpa, boas práticas e APIs RESTful.  
-Atualmente estudo **Java com Spring Boot** e **Node.js com TypeScript**, aplicando tudo em projetos práticos Full Stack.  
-Graduado em **Análise e Desenvolvimento de Sistemas (UNINOVE)** e aluno do **Bootcamp Java Alura**.
+🎓 Graduado em **Análise e Desenvolvimento de Sistemas (UNINOVE)**  
+🚀 Bootcamps: **Generation Brasil (Full Stack JS)** | **Alura (Java Back-End)**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/josadaque-ferreira) | [Portfólio](https://github.com/Josadack)
+📫 [LinkedIn](https://www.linkedin.com/in/josadaque-ferreira) | [GitHub](https://github.com/Josadack)
 
 
 <div>
