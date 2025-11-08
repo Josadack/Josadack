@@ -1,9 +1,11 @@
 ### Olá! Eu sou Josadack 👋
 
 
+Sou desenvolvedor Back-End em formação, apaixonado por arquitetura limpa, boas práticas e APIs RESTful.  
+Atualmente estudo **Java com Spring Boot** e **Node.js com TypeScript**, aplicando tudo em projetos práticos Full Stack.  
+Graduado em **Análise e Desenvolvimento de Sistemas (UNINOVE)** e aluno do **Bootcamp Java Alura**.
 
-- 🌱 Estudante: Java / JavaScript 
-- 👨🏽‍💻  Análise e desenvolvimento de sistema.
+🔗 [LinkedIn](https://www.linkedin.com/in/josadaque-ferreira) | [Portfólio](https://github.com/Josadack)
 
 
 <div>
