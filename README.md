@@ -69,4 +69,4 @@ Vammo! — Aplicação front-end desenvolvida em React + TypeScript + Vite + Tai
 
 ---
 
-📍 São Paulo - SP | 🌐 [Portfólio GitHub](https://github.com/Josadack)
+📍 Guarulhos - SP | 🌐 [Portfólio GitHub](https://github.com/Josadack)
