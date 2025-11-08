@@ -19,7 +19,7 @@ Atualmente busco oportunidades para atuar em times ágeis, entregando soluções
 ## 🧩 Projetos Relevantes
 
 Wistrip — Assistente virtual de viagens desenvolvido com Java 17 e Spring Boot 3. O sistema permite planejar viagens, comparar preços e integrar dados de reservas, aplicando boas práticas de arquitetura e APIs REST.
-➡️ https://github.com/projetointegrador-g3/vammo_react
+➡️ [Repositório](https://github.com/projetointegrador-g3/vammo_react)
 
 Bookstore Assistant — Aplicação em Spring Boot com integração ao Spring AI e OpenAI API para criar uma assistente de livraria inteligente, capaz de sugerir livros e interagir por meio de linguagem natural.
 ➡️ [Repositório](https://github.com/Josadack/bookstore)
