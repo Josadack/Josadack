@@ -29,8 +29,6 @@ Vammo! — Aplicação front-end desenvolvida em React + TypeScript + Vite + Tai
 
 ---
 
-## 🛠️ Stacks e Tecnologias
-
 ## 🧰 Stacks e Tecnologias
 
 **Back-end:**  
@@ -50,6 +48,7 @@ Vammo! — Aplicação front-end desenvolvida em React + TypeScript + Vite + Tai
 **Banco de Dados:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Outros:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
