@@ -1,4 +1,4 @@
-# Josadaque Ferreira (Dack Ferreira)
+# Josadaque Ferreira
 
 👨‍💻 Back-End & Full Stack Developer  
 🎓 Análise e Desenvolvimento de Sistemas | UNINOVE  
